@@ -16,7 +16,7 @@ Notes on first release:
 
 Controls
 --------
-Arrows for Left Right Up Down
-Spacebar for Pause
-M to mute the score
-D for debug data and gameover bypass
+- Arrows for Left Right Up Down
+- Spacebar for Pause
+- M to mute the score
+- D for debug data and gameover bypass
