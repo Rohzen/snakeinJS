@@ -1,0 +1,27 @@
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+ctrl_btn {
+    display: none;
+    visibility: hidden;
+}
+
+* {
+    padding:0;
+    margin:0;
+    font-family: 'Comic Neue';
+    box-sizing: border-box;
+}
+
+
+body {
+  background-image: linear-gradient(140deg, #212629, #395467);
+  min-height: 100vh;
+  color: #4F7849;
+  font-size: 24px;
+  position: relative;
+  padding-top: 50px;
+}
