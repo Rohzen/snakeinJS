@@ -1,6 +1,13 @@
 # snakeinJS
 A simple snake game in Javascript
 
+//Snake Ver.1.1 by Roberto Zanardo
+https://www.robertozanardo.com
+
+Based on JS Snake by Marco Palladino www.marcopalladino.it
+https://www.marcopalladino.it/it/snake-in-javascript/
+
+
 Notes on first release:
 --------------------------------
 - Comments on code source
